@@ -2,7 +2,7 @@
 nama = "Salsabila Zabrina Apsari"
 nim = "I0322114"
 alamat = "Rendole, Pati"
-visualisasi = "terkenal dengan kota yang kaya akan hasil tanin yang kaya akan hasil tani. Selain itu juga terkenal dengan makanannya yaitu nasi gandul."
+visualisasi = "terkenal dengan kota yang kaya akan hasil tani seperti ikan, padi, dan kacang. Selain itu juga terkenal dengan makanannya yaitu nasi gandul."
 harapan = "bisa menjadi seorang manager di perusahaan telkom"
 
 dict = {"a" : nama , "b" : nim , "c" : alamat , "d" : visualisasi , "e" : harapan}
